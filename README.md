@@ -18,8 +18,6 @@ I specialize in building immersive web experiences and custom architectures. My 
 
 ---
 
----
-
 ### 💎 Featured Work
 
 #### ⌚ [AERA 3D Watch Experience](https://github.com/Talha-waqas/3dWatch)
@@ -31,11 +29,6 @@ A next-generation luxury chronograph landing page featuring physical glass refra
 High-end WooCommerce and bespoke WordPress theme integrations engineered from scratch. Developed with clean design systems, fast query loop optimization, responsive grids, and customized PHP/action structures.
 * *Stack:* WordPress, PHP, WooCommerce API, CSS Grid, Custom Database Queries.
 * *Explore:* [Live Site Portfolio](https://www.talhawaqas.com/)
-
-#### 🎨 [Creative Design & Branding Showcase](https://www.talhawaqas.com/)
-High-fidelity user interfaces, corporate identity systems, marketing assets, and 3D product renders created using Adobe Suite, Figma, and Blender.
-* *Tools:* Figma, Photoshop, Illustrator, Blender.
-* *Explore:* [View Designs & Case Studies](https://www.talhawaqas.com/)
 
 ---
 
