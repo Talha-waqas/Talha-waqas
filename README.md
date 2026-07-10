@@ -1,34 +1,60 @@
 # Hi there, I'm Talha Waqas! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=E0A98C&center=true&vCenter=true&width=600&lines=Creative+Frontend+Engineer;3D+Web+Experience+Developer;Custom+WordPress+%26+WooCommerce+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=3000&pause=1000&color=E0A98C&center=true&vCenter=true&width=600&lines=Creative+Developer+%26+Designer;WordPress+%26+WooCommerce+Specialist;3D+Web+Experience+Creator;Graphic+%26+Brand+Designer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a passionate **Creative Frontend Engineer** and **WordPress/WooCommerce Architect** who specializes in blending mathematics, 3D WebGL graphics, and custom PHP engineering to build immersive digital spaces. 
+I am a **Creative Developer & Graphic Designer** with **3+ years of professional experience** blending visual artistry with clean, high-performance code. 
 
-My work bridges the gap between raw hardware capabilities and fluid visual storytelling, crafting interactive layouts that captivate users and elevate brands.
+I specialize in building immersive web experiences and custom architectures. My unique intersection of **technical code** (WebGL/Three.js, custom PHP WordPress/WooCommerce theme engineering) and **design tools** (Figma, Photoshop, Illustrator, Blender) allows me to take projects seamlessly from early concept and wireframes to fully animated, functional, and live production environments.
 
-* 🛠️ **Currently building:** Hyper-realistic WebGL luxury configurators and high-performance interactive landings.
-* 🎨 **Core philosophy:** Code should not just compile—it should evoke emotion through design, motion, and precision.
-* 📂 **Specialization:** 3D WebGL (Three.js), advanced motion systems (GSAP/ScrollTrigger), Custom WordPress theme engineering, and WooCommerce.
+* 💼 **Portfolio:** [talhawaqas.com](https://www.talhawaqas.com/)
+* 🎨 **Core Expertise:** Graphic Design, Branding, UI/UX, Custom WordPress & WooCommerce Themes, and 3D WebGL animations.
+* ⚡ **Core Philosophy:** Good design invites interaction; good engineering makes it unforgettable.
 
 ---
 
-### 🎛️ Technology Stack & Tools
+### 🎛️ Technology Stack & Creative Toolkit
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
+      <br>Three.js
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="Three.js" />
-      <br>Three.js
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ai" width="48" height="48" alt="Illustrator" />
+      <br>Illustrator
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="Blender" />
+      <br>Blender
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -37,32 +63,6 @@ My work bridges the gap between raw hardware capabilities and fluid visual story
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
     </td>
   </tr>
 </table>
@@ -74,10 +74,17 @@ My work bridges the gap between raw hardware capabilities and fluid visual story
 #### ⌚ [AERA 3D Watch Experience](https://github.com/Talha-waqas/3dWatch)
 A next-generation luxury chronograph landing page featuring physical glass refraction, a studio lighting reflection map, tourbillon gear movement, and smooth scroll explode interaction using Three.js, GSAP, and Lenis.
 * *Stack:* Three.js, GSAP ScrollTrigger, Lenis Smooth Scroll, WebGL.
-* *Live Demo:* [talha-waqas.github.io/3dWatch/](https://talha-waqas.github.io/3dWatch/)
+* *Explore:* [Repository](https://github.com/Talha-waqas/3dWatch) | [Live Demo](https://talha-waqas.github.io/3dWatch/)
 
-#### 🛍️ Custom E-Commerce & Theme Architectures
+#### 🛍️ [Bespoke WordPress & WooCommerce Architectures](https://www.talhawaqas.com/)
 High-end WooCommerce and bespoke WordPress theme integrations engineered from scratch. Developed with clean design systems, fast query loop optimization, responsive grids, and customized PHP/action structures.
+* *Stack:* WordPress, PHP, WooCommerce API, CSS Grid, Custom Database Queries.
+* *Explore:* [Live Site Portfolio](https://www.talhawaqas.com/)
+
+#### 🎨 [Creative Design & Branding Showcase](https://www.talhawaqas.com/)
+High-fidelity user interfaces, corporate identity systems, marketing assets, and 3D product renders created using Adobe Suite, Figma, and Blender.
+* *Tools:* Figma, Photoshop, Illustrator, Blender.
+* *Explore:* [View Designs & Case Studies](https://www.talhawaqas.com/)
 
 ---
 
@@ -92,6 +99,6 @@ High-end WooCommerce and bespoke WordPress theme integrations engineered from sc
 
 ### ✉️ Connect with Me
 
+- 🌐 **Portfolio Website:** [talhawaqas.com](https://www.talhawaqas.com/)
 - 💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/talha-waqas)
 - ✉️ **Email:** [talha.waqas@yourdomain.com](mailto:talha.waqas@yourdomain.com)
-- 🌐 **Portfolio:** [Visit my website](https://yourportfolio.com)
