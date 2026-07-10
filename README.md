@@ -32,17 +32,8 @@ High-end WooCommerce and bespoke WordPress theme integrations engineered from sc
 
 ---
 
-### 📊 GitHub Stats & Contributions
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Talha-waqas&show_icons=true&theme=nord&border_radius=10" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-waqas&layout=compact&theme=nord&border_radius=10" alt="Top Languages" height="180" />
-</p>
-
----
-
 ### ✉️ Connect with Me
 
 - 🌐 **Portfolio Website:** [talhawaqas.com](https://www.talhawaqas.com/)
 - 💼 **LinkedIn:** [Let's connect on LinkedIn](https://www.linkedin.com/in/talha-waqas)
-- ✉️ **Email:** [talha.waqas@yourdomain.com](mailto:talha.waqas@yourdomain.com)
+- ✉️ **Email:** [talhawaqasofficial@gmail.com](mailto:talhawaqasofficial@gmail.com)
